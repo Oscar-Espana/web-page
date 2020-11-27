@@ -9,6 +9,12 @@
       "#Components/*": [
         "./src/components/*"
       ],
+      "#screens": [
+        "./src/screens"
+      ],
+      "#screens/*": [
+        "./src/screens/*"
+      ],
       "#hooks/*": [
         "./src/hooks/*"
       ],

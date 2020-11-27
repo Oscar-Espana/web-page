@@ -10,11 +10,15 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
-    "@material-ui/core": "^4.11.0",
-    "@material-ui/icons": "^4.9.1",
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "clsx": "1.1.1",
     "next": "10.0.1",
+    "prop-types": "15.7.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-swipeable-views": "^0.13.9",
+    "react-swipeable-views-utils": "^0.14.0-alpha.0"
   },
   "devDependencies": {
     "@babel/cli": "7.12.1",

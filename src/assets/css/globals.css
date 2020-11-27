@@ -1,0 +1,21 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Raleway, Montserrat, Roboto;
+  background-color: white !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+figure{
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
